@@ -1,0 +1,12 @@
+{
+  "name": "backendlearning",
+  "version": "1.0.0",
+  "description": "Start journy to backend",
+  "license": "ISC",
+  "author": "waseem",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  }
+}
