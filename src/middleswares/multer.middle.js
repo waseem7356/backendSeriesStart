@@ -35,5 +35,5 @@ export const uploadFields = upload.fields([
   { name: 'avatar', maxCount: 1 },
   { name: 'gallery', maxCount: 8 },
 ]);
-
+export { upload };
 export default upload;
